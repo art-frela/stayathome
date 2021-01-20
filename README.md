@@ -30,3 +30,8 @@ The application demonstrates how to start with observability in Go
 - Adding tracer: [tracer](https://github.com/rumyantseva/stayathome/tree/tracer)
 - Adding meter: [meter](https://github.com/rumyantseva/stayathome/tree/meter)
 - Adding Jaeger and Prometheus: [tools](https://github.com/rumyantseva/stayathome/tree/tools)
+
+## Video
+
+- [ ] [Воркшоп: Знакомимся с Observability на практике. Елена Граховац](https://www.youtube.com/watch?v=7h7HOge2MAw&feature=youtu.be)
+- [ ] [Мастер-класс по Observability. GopherCon Russia. Август 2020](https://www.youtube.com/playlist?list=PLyF2SpuGmalvFzvmGnMZGvxbxIZNnAN0S)
